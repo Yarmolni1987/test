@@ -1,0 +1,7 @@
+.options{
+    display:grid;
+    grid-template-columns: repeat(4.1fr);
+}
+.options article{
+    border: solid 7px ;
+}

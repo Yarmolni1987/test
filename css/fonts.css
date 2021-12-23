@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Light';
+    src: url(../fonts/Montserrat-Light.woff);
+}
+@font-face {
+    font-family: 'Regular';
+    src: url(../fonts/Montserrat-Regular.woff);
+}
+@font-face {
+    font-family: 'ExtraBolt';
+    src: url(../fonts/Montserrat-ExtraBold.woff);
+}

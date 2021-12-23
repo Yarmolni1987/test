@@ -1,0 +1,103 @@
+header{
+    background-image: url(../img/bg-header.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.top-header{
+    background-color: rgba(73, 71, 63, .6);
+}
+.top-header>article{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.2% 0;
+}
+.top-header h1 a{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-family: 'Regular';
+    font-size: 32px;
+
+}
+.top-header a span{
+    font-family: 'ExtraBolt';
+    color: #18cfab;
+    text-transform: capitalize;
+}
+.top-header img{
+    margin-right: 10px;
+}
+.top-header ul{
+    display: flex;
+}
+.top-header ul li{
+    margin-left: 15px;
+}
+.top-header ul li:last-child{
+    margin-left: 25px;
+}
+.top-header ul a{
+    text-transform: uppercase;
+    font-family: 'ExtraBolt';
+}
+.top-header ul a:hover{
+    color: #18cfab;
+}
+.info-header{
+    padding: 21.5% 0;
+}
+.info-header h2{
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    font-family: 'ExtraBolt';
+}
+.info-header h2 span{
+    color: #18cfab;
+}
+.info-header h3{
+    font-size: 79px;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    font-family: 'ExtraBolt';
+    margin-top: 3.5%;
+    margin-bottom: 3.07%;
+}
+.info-header h4{
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 34px;
+    color: #d4d4d4;
+    font-family: 'Light';
+    margin-bottom: 12.7%;
+}
+.info-header p{
+    text-align: center;
+}
+.info-header p a:first-child{
+    margin-right: 15px;
+    background-color: #00cbf6;
+}
+.info-header a{
+    font-size: 13px;
+    display: inline-flex;
+    width: 165px;
+    height: 60px;
+    border-top: 5px solid #fff;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'ExtraBolt';
+    justify-content: center;
+    align-items: center;
+    background-color: #18cfab;
+}
+.gittest{
+    font-size: 36px;
+    text-align: justify;
+    padding: 50px;
+
+}
